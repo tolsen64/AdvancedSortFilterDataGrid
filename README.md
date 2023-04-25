@@ -1,3 +1,3 @@
 # AdvancedSortFilterDataGrid
 
-![Hit Counter](http://theboycot.com:8080/hc?id=GitHub.AdvancedSortFilterDataGrid "My Stupid Hit Counter!")
+![Hit Counter](http://tolsen64.com:8081/api/hc/GitHub.AdvancedSortFilterDataGrid "My Stupid Hit Counter!")
